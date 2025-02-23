@@ -6,19 +6,19 @@ void BubbleSort(vector<int> vec) {
 
 };
 
-void InsertionSort() {
+void InsertionSort(vector<int> vec) {
 
 };
 
-void MergeSort() {
+void MergeSort(vector<int> vec) {
 
 };
 
-void QuickSort() {
+void QuickSort(vector<int> vec) {
 
 };
 
-void SelectionSort() {
+void SelectionSort(vector<int> vec) {
 
 };
 
@@ -37,7 +37,7 @@ int main() {
     for(auto i:vec1) cout << i << "  ";
     cout << endl;
     for(auto i:vec2) cout << i << "  ";
-
+ 
 
     return 0;
 }
