@@ -4,18 +4,24 @@
 #include <iostream>
 using namespace std
 
-    class Solution {
+    class Solution
+{
 public:
-  bool isPalindrome(string s) {
+  bool isPalindrome(string s)
+  {
     int i = 0, j = s.size() - 1;
-    while (i < j) {
+    while (i < j)
+    {
       if (!isalnum(s[i]))
         i++;
       else if (!isalnum(s[j]))
         j--;
-      else if (tolower(s[i]) != tolower(s[j])) {
+      else if (tolower(s[i]) != tolower(s[j]))
+      {
         return false;
-      } else {
+      }
+      else
+      {
         i++;
         j--;
       }
@@ -24,7 +30,8 @@ public:
   }
 };
 
-int main() {
+int main()
+{
   Solution obj;
   string s = "A man, a plan, a canal: Panama";
   bool ans = isPalindrome(s);
