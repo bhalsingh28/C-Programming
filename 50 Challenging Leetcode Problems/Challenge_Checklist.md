@@ -4,8 +4,8 @@ These are 50 conceptually rich Medium and Hard LeetCode problems (not in NeetCod
 
 | Problem Title                               | Link                                                                                       | Difficulty   | Core Idea                  | Status   |
 |:--------------------------------------------|:-------------------------------------------------------------------------------------------|:-------------|:---------------------------|:---------|
-| Maximum XOR of Two Numbers                  | https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/                      | Hard         | Bit Trie                   |          |
-| Minimum Window Subsequence                  | https://leetcode.com/problems/minimum-window-subsequence/                                  | Hard         | 2D DP + Greedy             |          |
+| Maximum XOR of Two Numbers                  | https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/                      | Hard         | Bit Trie                   |   DONE   |
+| Minimum Window Subsequence                  | https://leetcode.com/problems/minimum-window-subsequence/                                  | Hard         | 2D DP + Greedy             |   DONE   |
 | Shortest Path to Get All Keys               | https://leetcode.com/problems/shortest-path-to-get-all-keys/                               | Hard         | BFS + Bitmask              |          |
 | Reconstruct Itinerary                       | https://leetcode.com/problems/reconstruct-itinerary/                                       | Hard         | Hierholzer’s Algorithm     |          |
 | Longest Duplicate Substring                 | https://leetcode.com/problems/longest-duplicate-substring/                                 | Hard         | Binary Search + Hashing    |          |
