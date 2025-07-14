@@ -4,12 +4,12 @@ These are 50 conceptually rich Medium and Hard LeetCode problems (not in NeetCod
 
 | Problem Title                               | Link                                                                                       | Difficulty   | Core Idea                  | Status   |
 |:--------------------------------------------|:-------------------------------------------------------------------------------------------|:-------------|:---------------------------|:---------|
-| Maximum XOR of Two Numbers                  | https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/                      | Hard         | Bit Trie                   |   DONE   |
-| Minimum Window Subsequence                  | https://leetcode.com/problems/minimum-window-subsequence/                                  | Hard         | 2D DP + Greedy             |   DONE   |
+| Maximum XOR of Two Numbers                  | https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/                      | Hard         | Bit Trie                   |          |
+| Minimum Window Subsequence                  | https://leetcode.com/problems/minimum-window-subsequence/                                  | Hard         | 2D DP + Greedy             |          |
 | Shortest Path to Get All Keys               | https://leetcode.com/problems/shortest-path-to-get-all-keys/                               | Hard         | BFS + Bitmask              |          |
 | Reconstruct Itinerary                       | https://leetcode.com/problems/reconstruct-itinerary/                                       | Hard         | Hierholzer’s Algorithm     |          |
 | Longest Duplicate Substring                 | https://leetcode.com/problems/longest-duplicate-substring/                                 | Hard         | Binary Search + Hashing    |          |
-| Longest Increasing Path in Matrix           | https://leetcode.com/problems/longest-increasing-path-in-a-matrix/                         | Hard         | DFS + Memo                 |          |
+| Longest Increasing Path in Matrix           | https://leetcode.com/problems/longest-increasing-path-in-a-matrix/                         | Hard         | DFS + Memo                 |   DONE   |
 | Maximum Profit in Job Scheduling            | https://leetcode.com/problems/maximum-profit-in-job-scheduling/                            | Hard         | Binary Search + DP         |          |
 | Minimum Cost to Merge Stones                | https://leetcode.com/problems/minimum-cost-to-merge-stones/                                | Hard         | Interval DP                |          |
 | Find the Shortest Superstring               | https://leetcode.com/problems/find-the-shortest-superstring/                               | Hard         | Bitmask DP                 |          |
@@ -18,7 +18,7 @@ These are 50 conceptually rich Medium and Hard LeetCode problems (not in NeetCod
 | Scramble String                             | https://leetcode.com/problems/scramble-string/                                             | Hard         | 3D DP                      |          |
 | Minimum Insertions to Balance a String      | https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/          | Medium       | Stack                      |          |
 | Count Vowels Permutation                    | https://leetcode.com/problems/count-vowels-permutation/                                    | Hard         | Matrix DP                  |          |
-| Word Break II                               | https://leetcode.com/problems/word-break-ii/                                               | Hard         | DFS + Memo                 |          |
+| Word Break II                               | https://leetcode.com/problems/word-break-ii/                                               | Hard         | DFS + Memo                 |   DONE   |
 | Count Different Subsequences                | https://leetcode.com/problems/distinct-subsequences-ii/                                    | Hard         | DP + Char Cache            |          |
 | Find Peak Element II                        | https://leetcode.com/problems/find-a-peak-element-ii/                                      | Medium       | 2D Binary Search           |          |
 | Online Stock Span                           | https://leetcode.com/problems/online-stock-span/                                           | Medium       | Monotonic Stack            |          |
