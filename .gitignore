@@ -2,6 +2,10 @@
 # VSCode
 .vscode/
 
-*.bin
-*.out
+# Ignore all .exe and .out files in all folders
 *.exe
+*.out
+
+# Ignore all build folders (recursively)
+build/
+**/build/
